@@ -8,7 +8,7 @@
     "@burner-wallet/assets": "^1.1.0",
     "eth-sig-util": "^2.5.3",
     "web3": "^1.2.2",
-    "web3-provider-engine": "^16.0.0"
+    "web3-provider-engine": "troggy/web3-provider-engine#709b85f"
   },
   "devDependencies": {
     "chai": "^4.2.0",
