@@ -1,6 +1,6 @@
 const ProviderEngine = require("web3-provider-engine");
 const NonceSubProvider = require("web3-provider-engine/subproviders/nonce-tracker.js");
-const HookedSubprovider = require("web3-provider-engine/subproviders/hooked-wallet.js");
+const HookedSubprovider = require("web3-provider-engine/subproviders/hooked-wallet-ethtx.js");
 const ProviderSubprovider = require("web3-provider-engine/subproviders/provider.js");
 
 class ProxyProvider {
